@@ -1,5 +1,3 @@
-//Wykorzystanie kilku czujników temperatury DS18B20 do odczytu temperatury co pół sekundy i wyświetlenie jej za pomocą USARTu.
-
 #include <avr/io.h>
 #include <stdlib.h>
 #include <string.h>
